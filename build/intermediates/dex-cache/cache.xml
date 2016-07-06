@@ -2,81 +2,81 @@
 <items version="2" >
 
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="73ea01e29e70aa94b14385e8f4bef0fe49ca1f2b">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2f383a72242560f83391acf1a6953bad48af3b82/classes.dex" />
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_03261f416cf33e69cfe123b0e1064c78aee2c99a/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f8de21bcb52be265fbe9cdca8369915a9144209c/classes.dex" />
+        sha1="0c793b70a84c8c69819f1caf77d5327884680f76">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_311beb2f64425fe0b4a045d9329d3745f02822c8/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_256c33402180e255be6e3b1e01bdda3f6887aedd/classes.dex" />
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_88b74d9be33148abba9b7f4dc1d6ef749e19d406/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_7ac61833a593d3abb3f10aa1f7448d07957ce5ea/classes.dex" />
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_40c98d771746d6940bacfe22d1656839d66de3b7/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="6fa5429bdadf840f46353986ef74d329deaf3e92">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa23fb260ac4e8ba2b6bf51da608d41fc71553b3/classes.dex" />
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_b85818f2d2d448c76e4120052829a9c0fa23f979/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c36f445f3b559a72a51d152aa4536acce445147">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_050ccba3d2dfb49175d752ec871bbcc175ab3d27/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_b9966dfe4ac65f7ad0484dfd17def7e46a4d7c12/classes.dex" />
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_b8c42c8a7f0553978a15c9144d2feff0f454e195/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_d1fa4772fc18da6ce3ec325ece05ecf5145327a0/classes.dex" />
     </item>
     <item
         jar="/Users/ken/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_bc9f4deda13e6269e3f72225fe2833a23820edbd/classes.dex" />
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_bc9f4deda13e6269e3f72225fe2833a23820edbd/classes.dex" />
     </item>
     <item
         jar="/Users/ken/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_e9a5eafe9d51b40ee74e29e7f724617b4ec73b16/classes.dex" />
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_e9a5eafe9d51b40ee74e29e7f724617b4ec73b16/classes.dex" />
     </item>
     <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jar="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_ee7ace7f7cb872b984c1b330d82056054347f230/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_93107ea8735c81d023d579a2e307e2b3d7da1b74/classes.dex" />
-    </item>
-    <item
-        jar="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/ken/Desktop/FiNC/GoogleIO2016/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_3b2a20c684ecbc71076bfb36a171f74f8900c8d6/classes.dex" />
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ken/Desktop/FiNC/google_io_2016_hands_on/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_f2e8fa22fa66e8ef9d65ed24cf79486806268ed8/classes.dex" />
     </item>
 
 </items>
